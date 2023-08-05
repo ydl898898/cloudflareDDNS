@@ -16,6 +16,7 @@ IP_ADDR=ipv4
 echo
 echo '你的IP地址是'$(curl 4.ipw.cn)',请确认为本机未经过代理的地址'
 echo '在路上：https://www.youtube.com/channel/UC4g8abtv5Mi7z8TRW3YOdBA'
+echo 'Github：https://github.com/ydl898898/cloudflareDDNS.git'
 ###################################################################################################
 ##cloudflare配置
 #cloudflare账号邮箱
